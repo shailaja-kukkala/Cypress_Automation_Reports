@@ -1,0 +1,20 @@
+{
+  "name": "cypress_automation_reports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sailaja Chundru",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.10.0",
+    "cypress-mochawesome-reporter": "^4.0.2",
+    "mochawesome": "^7.1.4"
+  },
+  "dependencies": {
+    "mochawesome-report-generator": "^6.3.2",
+    "node": "^25.6.0"
+  }
+}
